@@ -6,7 +6,7 @@
 
 🌍 Based in Accra, Ghana  
 🔗 [hackura.app](https://hackura.app) – Live research lab  
-📺 [YouTube](https://youtube.com/@hackura) – Tool demos & threat analysis
+📺 [YouTube](https://www.youtube.com/@dorpekarlseyram) – Tool demos & threat analysis
 
 ---
 
