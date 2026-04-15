@@ -14,9 +14,9 @@
 
 | Tool | What It Does | Status |
 |------|--------------|--------|
-| **SentinelX** | Detects anomalies in network traffic and system logs | ✅ Built, pushing soon |
+| **SentinelX** | Detects anomalies in network traffic and system logs | ✅ Built |
 | **Aegis** | Automated threat response on Kali based on Metatron | ✅ Built, pushing soon |
-| **RedSentinel** | AI-assisted red team (for testing my blue team) | 🚧 Building |
+| **RedSentinel** | AI-assisted red team (for testing my blue team) | ✅Built|
 
 ---
 
