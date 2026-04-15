@@ -46,4 +46,4 @@ I help Ghanaian businesses stay secure with affordable monthly plans:
 
 - LinkedIn: [Karl Seyram Dorpe](https://linkedin.com/in/karlseyramdorpe)
 - Lab: [hackura.app](https://hackura.app)
-- YouTube: [@hackura](https://youtube.com/@hackura)
+- YouTube: [@dorpekarlseyram](https://www.youtube.com/@dorpekarlseyram)
