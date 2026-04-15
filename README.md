@@ -1,40 +1,49 @@
-# 👋 Hi, I’m Karl (Hackura)
+# 👋 I'm Karl (Hackura)
 
-**Founder of Hackura Security** | Cybersecurity Student | Ethical Web & Security Tools
+**Blue Team Engineer** | Cybersecurity Student | Security Tool Builder
 
-🔐 I build security tools and conduct authorized web security assessments to help small organizations improve their security posture.
+🔵 I build detection tools and help small businesses in Ghana stay secure.  
 
-🌍 Based in Ghana  
-💻 GitHub: https://github.com/hackura  
-
-
----
-
-## 👨‍💻 About Me
-
-I’m a cybersecurity student and the founder of **Hackura Security** — a student-led initiative focused on building open-source security tools and improving web security through ethical assessments.
+🌍 Based in Accra, Ghana  
+🔗 [hackura.app](https://hackura.app) – Live research lab  
+📺 [YouTube](https://youtube.com/@hackura) – Tool demos & threat analysis
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ My Blue Team Tools
 
-- Web & Application Security  
-- Python & Security Automation  
-- Vulnerability Assessment  
-- Git & GitHub  
-- Ethical Security Practices
+| Tool | What It Does | Status |
+|------|--------------|--------|
+| **SentinelX** | Detects anomalies in network traffic and system logs | ✅ Built, pushing soon |
+| **Aegis** | Automated threat response on Kali based on Metatron | ✅ Built, pushing soon |
+| **RedSentinel** | AI-assisted red team (for testing my blue team) | 🚧 Building |
+
+---
+
+## 💼 Blue Team Services
+
+I help Ghanaian businesses stay secure with affordable monthly plans:
+
+- **Basic (GHS 500/mo)** – Weekly log review + alert triage
+- **SME (GHS 1,000/mo)** – 24/7 monitoring + incident response
+- **Virtual SOC (GHS 3,000/mo)** – Full threat hunting + compliance
+
+📞 **Hire me:** hackura@keemail.com
 
 ---
 
 ## 📌 Featured Repositories
 
-### 🧪 RedSentinel  
-AI-assisted red team CLI for authorized security testing, analysis, and reporting.
+*(Coming this week – code being cleaned up)*
 
+- 🔵 [SentinelX](https://github.com/hackura/sentinelx) – Network anomaly detection
+- 🛡️ [Aegis](https://github.com/hackura/aegis) – Blue team automation on Kali based on Metatron
+- 🧪 [RedSentinel](https://github.com/hackura/redsentinel) – Red team CLI (for testing)
 
 ---
 
-## 📫 How to Reach Me
+## 🔗 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/karlseyramdorpe 
-- ✉️ Email: hackura@keemail.com
+- LinkedIn: [Karl Seyram Dorpe](https://linkedin.com/in/karlseyramdorpe)
+- Lab: [hackura.app](https://hackura.app)
+- YouTube: [@hackura](https://youtube.com/@hackura)
