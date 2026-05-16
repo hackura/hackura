@@ -37,7 +37,7 @@ I help Ghanaian businesses stay secure with affordable monthly plans:
 *(Coming this week – code being cleaned up)*
 
 - 🔵 [SentinelX](https://github.com/hackura/sentinelx) – Network anomaly detection
-- 🛡️ [Aegis](https://github.com/hackura/aegis) – Blue team automation on Kali based on Metatron
+- 🛡️ [Sentinel AI](https://github.com/hackura/sentinel-cli) – Blue team automation on Kali based on Metatron
 - 🧪 [RedSentinel](https://github.com/hackura/redsentinel) – Red team CLI (for testing)
 
 ---
