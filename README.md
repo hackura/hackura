@@ -20,18 +20,6 @@
 
 ---
 
-## 💼 Blue Team Services
-
-I help Ghanaian businesses stay secure with affordable monthly plans:
-
-- **Basic (GHS 500/mo)** – Weekly log review + alert triage
-- **SME (GHS 1,000/mo)** – 24/7 monitoring + incident response
-- **Virtual SOC (GHS 3,000/mo)** – Full threat hunting + compliance
-
-📞 **Hire me:** hackura@keemail.com
-
----
-
 ## 📌 Featured Repositories
 
 *(Coming this week – code being cleaned up)*
