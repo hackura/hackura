@@ -22,10 +22,8 @@
 
 ## 📌 Featured Repositories
 
-*(Coming this week – code being cleaned up)*
-
 - 🔵 [SentinelX](https://github.com/hackura/sentinelx) – Network anomaly detection
-- 🛡️ [Sentinel AI](https://github.com/hackura/sentinel-cli) – Blue team automation on Kali based on Metatron
+- 🛡️ [Sentinel AI CLI](https://github.com/hackura/sentinel-cli) – Blue team automation on linux based on Sentinel AI
 - 🧪 [RedSentinel](https://github.com/hackura/redsentinel) – Red team CLI (for testing)
 
 ---
