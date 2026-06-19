@@ -22,14 +22,15 @@
 
 ## 📌 Featured Repositories
 
-- 🔵 [SentinelX](https://github.com/hackura/sentinelx) – Network anomaly detection
-- 🛡️ [Sentinel AI CLI](https://github.com/hackura/sentinel-cli) – Blue team automation on linux based on Sentinel AI
-- 🧪 [RedSentinel](https://github.com/hackura/redsentinel) – Red team CLI (for testing)
-
+-  [SentinelX](https://github.com/hackura/sentinelx) – Network anomaly detection
+-  [Sentinel AI CLI](https://github.com/hackura/sentinel-cli) – Blue team automation on linux based on Sentinel AI
+-  [RedSentinel](https://github.com/hackura/redsentinel) – Red team CLI (for testing)
+-  [Sentinel AI Web](https://github.com/hackura/hackura-sentinel-ai) - Phishing anomalies detector
 ---
 
 ## 🔗 Connect
 
 - LinkedIn: [Karl Seyram Dorpe](https://linkedin.com/in/karlseyramdorpe)
 - Lab: [hackura.app](https://hackura.app)
-- YouTube: [@dorpekarlseyram](https://www.youtube.com/@dorpekarlseyram)
+- YouTube: [@hackuragh](https://www.youtube.com/@hackuragh)
+- Email: lab@hackura.app
